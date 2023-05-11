@@ -3,7 +3,7 @@ from django.shortcuts import render
 # Create your views here.
 
 dt =[
-          9000,
+          7000,
           21345,
           18483,
           24003,
